@@ -1,0 +1,4 @@
+root = true
+
+[*.{kt,kts,kt.spec,kts.spec}]
+ktlint_disabled_rules=import-ordering,final-newline
